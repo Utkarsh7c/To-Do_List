@@ -1,0 +1,16 @@
+.delete{
+ font-size: 22px;
+}
+.edit{
+    font-size: 22px;
+   
+}
+.span{
+    font-size: 35px;
+    color: aliceblue;
+    
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+}
